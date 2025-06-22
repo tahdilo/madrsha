@@ -215,19 +215,3 @@ footer a {
 footer a:hover {
   color: #06413d;
 }
-/* /* Responsive */
-@media (max-width: 640px) {
-  header h1 {
-    font-size: 2rem;
-  }
-  nav a {
-    display: block;
-    margin: 10px 0;
-    font-size: 1.2rem;
-  }
-  section {
-    padding: 20px 15px;
-    margin: 15px 10px;
-  }
-}
- */
