@@ -215,7 +215,7 @@ footer a {
 footer a:hover {
   color: #06413d;
 }
-/* Responsive */
+/* /* Responsive */
 @media (max-width: 640px) {
   header h1 {
     font-size: 2rem;
@@ -230,3 +230,4 @@ footer a:hover {
     margin: 15px 10px;
   }
 }
+ */
